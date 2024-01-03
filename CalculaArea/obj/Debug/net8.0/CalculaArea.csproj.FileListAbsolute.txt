@@ -1,0 +1,14 @@
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.AssemblyInfoInputs.cache
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.AssemblyInfo.cs
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\bin\Debug\net8.0\CalculaArea.exe
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\bin\Debug\net8.0\CalculaArea.deps.json
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\bin\Debug\net8.0\CalculaArea.runtimeconfig.json
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\bin\Debug\net8.0\CalculaArea.dll
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\bin\Debug\net8.0\CalculaArea.pdb
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.dll
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\refint\CalculaArea.dll
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.pdb
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\CalculaArea.genruntimeconfig.cache
+C:\Users\ARMANDO\source\repos\CalculaArea\CalculaArea\obj\Debug\net8.0\ref\CalculaArea.dll
